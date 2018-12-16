@@ -1,4 +1,4 @@
-<center> Chau Wai Kwan CV</center>
+<html><center> Chau Wai Kwan CV</center>
 <center> PERSONAL INFO: 
 Name: Chau Wai Kwan Contact No: 62232548 Email:Smallkwan313@gmail.com</center>
 
@@ -20,7 +20,7 @@ Job Duties: Questionnaires 100 citizen concerning the McDonald's and Kentucky Fr
 1.	Hong Kong Institute of Vocational Education (Lee Wai Lee) regarding the Diploma of Foundation Studies-Information Technology. 
 2.	Hong Kong Weaving Mills Association CHU SHEK LUN Secondary School.
 
-<center>	OTHER CERTIFICATION:</center>
+<center>	OTHER CERTIFICATION: </center>
 1.	UNSW GIOBAL (EDUCATIONAL ASSESSMENT AUSTRALIA 2015), PRESENTED BY INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (MARK OF RANK: Form 4)
 2.	Hong KONG School Drama Festival (In recognition of the outstanding performance in the School Performance Phase of the Hong Kong Drama Festival 2014/15) OR(2015/16),Award for Outstanding Cooperation (Secondary Putonghua Category), PRESENTED by Hong Kong School Drama Festival
 3.	HONG KONG CREATIVE DRAMA FESTIVAL 2015 (Merit Award) OR (2016), PRESENTED by Hong Kong BAPTIST UNIVERSITY AND Center for Holistic Teaching and Learning.
@@ -33,3 +33,4 @@ Creative skills: Action show concerning HONG KONG CREATIVE DRAMA FESTIVAL 2015 o
 Language skills: Speaking Performance regarding the Hong Kong Schools Music and Speech Association 66th Hong Kong Schools Speech Festival 2014 or 2015.For example, using drama skills to improve pronunciation.
 Teamwork skills: Together drama Performance about
 Hong KONG School Drama Festival.
+</html>
