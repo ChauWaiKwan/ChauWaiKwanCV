@@ -1,6 +1,5 @@
-# ChauWaiKwanCV
-	PERSONAL INFO:
-Name: Chau Wai Kwan
+#<center> ChauWaiKwanCV</center>
+PERSONAL INFO: Name: Chau Wai Kwan
 Contact No: 62232548
 Email:Smallkwan313@gmail.com
 ACTIVITY EXPERIENCED:
