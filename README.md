@@ -1,7 +1,6 @@
 #<center> ChauWaiKwanCV</center>
-PERSONAL INFO: Name: Chau Wai Kwan
-Contact No: 62232548
-Email:Smallkwan313@gmail.com
+<center> PERSONAL INFO: 
+Name: Chau Wai Kwan Contact No: 62232548 Email:Smallkwan313@gmail.com</center>
 ACTIVITY EXPERIENCED:
 1.	School Leader training regarding Form 2 (10 march 2012) in the HONG KONGCHU SHEK LUN Secondary School.
 Job Duties: training Form 1 student to become the school leader.
